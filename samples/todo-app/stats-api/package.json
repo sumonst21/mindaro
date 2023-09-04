@@ -2,7 +2,7 @@
     "name": "todo-stats-api",
     "version": "1.0.0",
     "devDependencies": {
-        "nodemon": "^2.0.15"
+        "nodemon": "^2.0.22"
     },
     "dependencies": {
         "express": "^4.17.2",
