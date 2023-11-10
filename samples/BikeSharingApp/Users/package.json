@@ -22,7 +22,7 @@
     "morgan": "^1.10.0",
     "prebuild-install": "^7.0.0",
     "simple-get": "^4.0.1",
-    "tedious": "14.1.0",
+    "tedious": "14.7.0",
     "util": "0.12.4",
     "validate.js": "^0.13.1"
   },
