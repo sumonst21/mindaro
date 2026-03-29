@@ -17,7 +17,7 @@
   "dependencies": {
     "async": "^3.2.3",
     "body-parser": "^1.19.1",
-    "express": "^4.17.2",
+    "express": "^4.22.1",
     "express-api-validator": "0.1.0",
     "morgan": "^1.10.0",
     "prebuild-install": "^7.0.0",
